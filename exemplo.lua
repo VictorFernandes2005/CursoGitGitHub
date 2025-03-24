@@ -1,3 +1,3 @@
-# exemplo de codigo
+-- exemplo de codigo
 
 print("qualquer baboseira")
